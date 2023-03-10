@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-color: #72D5FF;
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    padding: 2%;
+}
+
+.HuskySiberiano{
+    background-image: linear-gradient(#A4E4FF, #1170FF);
+    display: flex;
+    justify-content: first baseline;
+    align-items: center;
+    padding: 4px 1;
+}
+
+.HuskySiberiano-titulo{
+    padding: 5px 0;
+}
+
+.husky-div-conteudo{
+    width: 20%;
+}
