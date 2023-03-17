@@ -11,18 +11,21 @@ header{
     padding: 2%;
 }
 
+.HuskySiberiano-titulo{
+    padding: 5px 0;
+}
+.Dog{
+    width: 25%;
+}
+
+.husky-div-conteudo{
+    font-family: 'Roboto', sans-serif;
+}
+
 .HuskySiberiano{
     background-image: linear-gradient(#A4E4FF, #1170FF);
     display: flex;
     justify-content: first baseline;
     align-items: center;
     padding: 4px 1;
-}
-
-.HuskySiberiano-titulo{
-    padding: 5px 0;
-}
-
-.husky-div-conteudo{
-    width: 20%;
 }
