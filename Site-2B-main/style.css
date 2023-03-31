@@ -14,18 +14,51 @@ header{
 .HuskySiberiano-titulo{
     padding: 5px 0;
 }
-.Dog{
-    width: 25%;
-}
 
 .husky-div-conteudo{
+    width: 60%;
     font-family: 'Roboto', sans-serif;
 }
 
 .HuskySiberiano{
     background-image: linear-gradient(#A4E4FF, #1170FF);
     display: flex;
-    justify-content: first baseline;
+    justify-content:center ;
     align-items: center;
     padding: 4px 1;
+}
+
+.husky{
+    width: 25%;
+}
+
+.curiosidades{
+    background-image: linear-gradient(#1170FF,#a4e4ff) ;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    padding: 4px 1;
+}
+
+.Informação{
+    font-family: 'Roboto', sans-serif;
+}
+.patinha{
+    width:25%
+}
+
+.rodape{
+    background-color: black;
+}
+
+.NaoOficial{
+    color:azure
+}
+
+.pata{
+    width: 3%;
+}
+
+.pata2{
+    width: 3%;
 }
